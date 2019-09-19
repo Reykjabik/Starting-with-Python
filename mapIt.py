@@ -8,6 +8,8 @@
     Example:
 
     mapIt.py tverskaya 11, Moscow
+    
+    Original idea and code from Al Sweigart's 'Automate the Boring Stuff with Python'
 '''
 
 import webbrowser, sys, pyperclip   # webbrowser: to open browser
